@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\xampp\htdocs\xtremebike\xtremebikeapp3\build\windows\x64\CMakeFiles\97a3f029d2316016da5deda256f912ec\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2B2E370B-AA3B-39E4-A507-F4D060FF123D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
